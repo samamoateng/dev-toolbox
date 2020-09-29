@@ -1,6 +1,6 @@
 # dev-profile
-Developer profile page
+Developer Toolbox
 
 About
-Projects
+Project
 Contact me (I will work on that soon)
